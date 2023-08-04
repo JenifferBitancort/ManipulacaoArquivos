@@ -1,0 +1,11 @@
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\bin\Debug\Manipulação de arquivos.exe.config
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\bin\Debug\Manipulação de arquivos.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\bin\Debug\Manipulação de arquivos.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação de arquivos.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação de arquivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação_de_arquivos.Form1.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação_de_arquivos.Properties.Resources.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação de arquivos.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação de arquivos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação de arquivos.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\Manipulação de arquivos\Manipulação de arquivos\obj\Debug\Manipulação de arquivos.pdb
